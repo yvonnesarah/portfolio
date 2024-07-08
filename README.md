@@ -56,7 +56,9 @@ Portfolio - Services Section
 Portfolio - Projects Section
 ![Screenshot](assets/ReadMe-images/projects-section.png "Portfolio - Projects Section")
 
+
 Portfolio - Project Model Example
+
 ![Screenshot](assets/ReadMe-images/project-model-example.png "Portfolio - Project Model example ")
 
 Portfolio - Contact Me Section
