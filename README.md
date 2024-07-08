@@ -8,6 +8,14 @@ Portfolio for Yvonne Adedeji - Front-End Web Developer. Recreate my personal por
 ## Prerequisites
 N/A
 
+## Features
+* Personal informstion section.
+* Display projects with descriptions and images etc.
+* Skills section.
+* Services Section.
+* Contact form for inquiries.
+* Responsive design for optimal viewing on mobile and desktop devices.
+
 ## Criteria
 Using Bootstrap, recreate your portfolio site with the following items:
 * A Navigation bar and a navigation menu at the top.
@@ -32,7 +40,10 @@ This portfolio was created using
 N/A
 
 ## Usage
-N/A
+* Open the Portfolio web application in your browser.
+*Navigate through different sections: About, Projects, Services, Skills and contact.
+* View detailed descriptions and images of projects in a model.
+* Use the contact form to send inquiries or messages.
 
 ## Project Link
 Application can can be viewed here: 
