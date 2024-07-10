@@ -41,7 +41,7 @@ N/A
 
 ## Usage
 * Open the Portfolio web application in your browser.
-*Navigate through different sections: About, Projects, Services, Skills and contact.
+* Navigate through different sections: About, Projects, Services, Skills and Contact.
 * View detailed descriptions and images of projects in a model.
 * Use the contact form to send inquiries or messages.
 
